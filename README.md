@@ -1,3 +1,6 @@
+# Distributed under the MIT License
+Downloading the solution components constitutes acceptance of the MIT license within this repository.
+
 # Copilot Studio ServiceNow Agent
 This solution comprises of a Copilot Studio based self-service agent that connects to a Service Now instance under user context using basic authentication. It responds to questions about Requests, Catalog tasks, RITMs. It responds to natural language instructions with follow up question capabilities. It executes the queries against SNOW and renders output in a easy to consume manner. 
 
